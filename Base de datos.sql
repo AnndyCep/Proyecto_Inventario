@@ -1,4 +1,4 @@
-
+CREATE DATABASE productos;
 USE productos;
 create table productos (codigo INT auto_increment NOT NULL, 
 nombre varchar (20) unique NOT null, 
